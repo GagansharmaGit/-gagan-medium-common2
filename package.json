@@ -1,0 +1,25 @@
+{
+  "name": "@gagan/medium-common2",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gagan Sharma",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "types": "./dist/index.d.ts",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GagansharmaGit/-gagan-medium-common2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GagansharmaGit/-gagan-medium-common2/issues"
+  },
+  "homepage": "https://github.com/GagansharmaGit/-gagan-medium-common2#readme",
+  "description": ""
+}
